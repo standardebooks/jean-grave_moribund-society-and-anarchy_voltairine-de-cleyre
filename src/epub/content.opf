@@ -34,7 +34,8 @@
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">Jean Grave systemically critiques bourgeois society from an anarchist perspective.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>A systemic critique of bourgeois society, <i>Moribund Society and Anarchy</i> is a comprehensive introduction to anarchist theory written by the French anarchist <a href="https://standardebooks.org/ebooks/jean-grave">Jean Grave</a>. Laying out a case for anarchist communism against authoritarian forms of human organization, Grave investigates foundational institutions of capitalist society such as property, family, and authority before going on to critique the concept of a “country” and associated practices of militarism, colonization, and racial hierarchy. It unapologetically advocates for a revolutionary form of anarchism and lays out a refutation of arguments in favor of evolutionary and reformist efforts to ameliorate social ills. The book was widely circulated at the time of its original publication, even leading to Grave’s imprisonment under the <i xml:lang="fr">lois scélérates</i> (“villanous laws”) curtailing free speech in the French Third Republic.</p>
+			<p>This edition of <i>Moribund Society and Anarchy</i> was translated in 1899 by <a href="https://standardebooks.org/ebooks/voltairine-de-cleyre">Voltairine de Cleyre</a>, a notable American anarchist author and theorist in her own right.</p>
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://theanarchistlibrary.org/library/jean-grave-moribund-society-and-anarchy</dc:source>
