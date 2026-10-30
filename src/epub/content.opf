@@ -69,8 +69,9 @@
 		<link href="https://id.loc.gov/authorities/names/n83208948.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Shawn P. Wilbur</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Wilbur, P. Shawn</meta>
+		<meta property="file-as" refines="#transcriber-1">Wilbur, Shawn P.</meta>
 		<link href="https://www.libertarian-labyrinth.org/" refines="#transcriber-1" rel="schema:url"/>
+		<link href="https://id.loc.gov/authorities/names/no2018006107.html" refines="#transcriber-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
